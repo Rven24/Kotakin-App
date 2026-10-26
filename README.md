@@ -38,7 +38,7 @@
 #### Installation
 
 1. **Clone repository**
-   git clone https://github.com/Rven24/kotakin.git
+   git clone https://github.com/Rven24/Kotakin-App.git
    cd kotakin
 
 2. **Install dependencies**
